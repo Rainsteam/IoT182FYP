@@ -1,0 +1,11 @@
+{
+    "idf.portWin": "COM6",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.flashType": "UART",
+    "files.associations": {
+        "led_strip.h": "c"
+    }
+}
